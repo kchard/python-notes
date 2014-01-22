@@ -8,3 +8,7 @@ Resource links and notes related to Python
 [Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 [Magic Methods](http://www.rafekettler.com/magicmethods.html)
+
+### Standard Library
+
+http - http://www.afpy.org/doc/python/2.7/library/urllib2.html#module-urllib2
